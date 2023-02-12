@@ -8,3 +8,5 @@
                url="jdbc:mysql://localhost:3306/web_student_tracker?useSSL=false&amp;serverTimezone=UTC"/>
 
 </Context>
+
+//enter your database password *******

@@ -12,3 +12,6 @@
 4. Run the application: 
    1. Select the root project folder
    2. Right-Click, select Run As > Run On Server
+   
+ if you got any error change this line...  
+ url="jdbc:mysql://localhost:3306/web_student_tracker?allowPublicKeyRetrieval=true"   
